@@ -30,3 +30,20 @@ https://www.youtube.com/playlist?list=PLDMPhWe3Cfpagzzv_mCtTa_4jbnIGmV78
 ==2019/07/03=====================
 https://okdevtv.com/mib/nodejs
 https://okdevtv.com/mib/nginx
+
+aws.amazon.com	
+hbenicloud@gmail.com	hbpass12
+	
+http://tomcat.apache.org/	
+sudo systemctl start ngix	
+sudo systemctl start nginx	
+	
+	
+agilemanifesto.org	
+https://www.agilealliance.org/	
+https://okdevtv.com/mib/zap	
+	
+https://www.slideshare.net/chris.e.richardson/decomposing-applications-for-deployability-and-scalabilityspringsource-webinar	
+	
+http://12factor.net 	
+	
