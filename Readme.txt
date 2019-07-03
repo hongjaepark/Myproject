@@ -25,3 +25,8 @@ https://www.slideshare.net/Gonnector/ss-60993909
 
 
 https://www.youtube.com/playlist?list=PLDMPhWe3Cfpagzzv_mCtTa_4jbnIGmV78
+
+
+==2019/07/03=====================
+https://okdevtv.com/mib/nodejs
+https://okdevtv.com/mib/nginx
